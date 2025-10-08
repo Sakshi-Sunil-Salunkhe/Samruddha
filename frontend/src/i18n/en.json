@@ -1,0 +1,12 @@
+{
+  "select_language": "Select your language",
+  "login": "Login",
+  "register": "Register",
+  "dashboard": "Dashboard",
+  "register_cattle": "Register New Cattle",
+  "cattle_id": "Cattle ID",
+  "breed": "Breed",
+  "age": "Age",
+  "consult_vet": "Consult Vet",
+  "logout": "Logout"
+}
